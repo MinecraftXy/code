@@ -2,6 +2,7 @@
 #include <random>
 #include<Windows.h>
 #include<string>
+//各种方便的函数!
 int random(int qishi, int jieshu)//随机
 {
     std::default_random_engine e;
